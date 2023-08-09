@@ -31,7 +31,7 @@ Make sure you have the following software installed:
    ```bash
    git clone https://github.com/your-username/finance-dashboard.git
    cd finance-dashboard
-Technologies Used
+### Technologies Used
 
   - MongoDB: Database for storing financial data.
   - Express: Backend framework for handling server-side logic.
