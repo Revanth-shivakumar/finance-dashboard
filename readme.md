@@ -2,7 +2,7 @@
 
 ![Dashboard Screenshot](dashboard-screenshot.png)
 
-The MERN Stack Finance Dashboard is a web application designed to help users manage and visualize their financial data. Built using the MERN stack (MongoDB, Express, React, Node.js), this project provides a comprehensive solution for tracking income, expenses, budgets, and more.
+The MERN Stack Finance Dashboard is a web application designed to help users manage and visualize their financial data. Built using the MERN stack (MongoDB, Express, React, Node.js), this project provides a comprehensive solution for tracking income, expenses, profits , and more.
 
 ## Table of Contents
 
@@ -16,21 +16,6 @@ The MERN Stack Finance Dashboard is a web application designed to help users man
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
-
-- **User Authentication:** Secure user registration and login functionality.
-- **Dashboard Overview:** A summarized view of financial data, including income, expenses, and savings.
-- **Expense Tracking:** Add, categorize, and manage expenses with ease.
-- **Budget Management:** Set monthly budgets for different categories and track spending against them.
-- **Visual Analytics:** Interactive charts and graphs for visualizing financial trends and patterns.
-- **Goal Setting:** Set financial goals and monitor progress over time.
-- **Responsive Design:** A mobile-friendly interface for accessing the dashboard on various devices.
-
-## Demo
-
-![Demo GIF](demo.gif)
-
-Check out our live demo [here](https://your-demo-url.com).
 
 ## Getting Started
 
@@ -47,5 +32,5 @@ Make sure you have the following software installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mern-finance-dashboard.git
-   cd mern-finance-dashboard
+   git clone https://github.com/your-username/finance-dashboard.git
+   cd finance-dashboard
