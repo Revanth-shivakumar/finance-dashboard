@@ -33,7 +33,7 @@ Make sure you have the following software installed:
    cd finance-dashboard
 Technologies Used
 
-  MongoDB: Database for storing financial data.
-  Express: Backend framework for handling server-side logic.
-  React: Frontend library for building user interfaces.
-  Node.js: JavaScript runtime for server-side scripting.
+  - MongoDB: Database for storing financial data.
+  - Express: Backend framework for handling server-side logic.
+  - React: Frontend library for building user interfaces.
+  - Node.js: JavaScript runtime for server-side scripting.
