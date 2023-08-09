@@ -1,6 +1,6 @@
 # MERN Stack Finance Dashboard
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](demo.png)
 
 The MERN Stack Finance Dashboard is a web application designed to help users manage and visualize their financial data. Built using the MERN stack (MongoDB, Express, React, Node.js), this project provides a comprehensive solution for tracking income, expenses, profits , and more.
 
