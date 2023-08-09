@@ -11,10 +11,7 @@ The MERN Stack Finance Dashboard is a web application designed to help users man
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Getting Started
@@ -34,3 +31,9 @@ Make sure you have the following software installed:
    ```bash
    git clone https://github.com/your-username/finance-dashboard.git
    cd finance-dashboard
+Technologies Used
+
+  MongoDB: Database for storing financial data.
+  Express: Backend framework for handling server-side logic.
+  React: Frontend library for building user interfaces.
+  Node.js: JavaScript runtime for server-side scripting.
