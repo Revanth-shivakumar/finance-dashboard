@@ -21,7 +21,7 @@ Backend: Node.js, Express.js, MongoDB
 Machine Learning: Data-driven insights for smarter decisions
 Getting Started:
 
-Clone the Repository: git clone https://github.com/your-username/your-repo-name.git
+Clone the Repository: git clone 
 Install Dependencies: Run npm install in both frontend and backend directories.
 Configure Environment: Create a .env file and set your environment variables.
 Start Development: Run npm run dev in both frontend and backend directories.
