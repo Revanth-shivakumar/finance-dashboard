@@ -8,7 +8,7 @@ The MERN Stack Finance Dashboard is a web application designed to help users man
 
 - [Features](#features)
 - [Demo](#demo)
-- [Getting Started](#getting-started)
+- [Getting Started](#getting-started) 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Technologies Used](#technologies-used)
