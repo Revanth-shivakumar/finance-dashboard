@@ -1,6 +1,6 @@
 # MERN Stack Finance Dashboard
 
-![Dashboard Screenshot](demo.png)
+![Dashboard Screenshot](demo1.png)
 
 # MERN Finance Dashboard App 🚀
 
